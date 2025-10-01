@@ -1,0 +1,29 @@
+# Virtual Environment
+myenv/
+venv/
+env/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Model files and data
+*.h5
+*.pt
+*.pth
+*.ckpt
+data/
+models/
+checkpoints/
